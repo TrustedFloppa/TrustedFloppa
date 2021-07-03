@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TrustedFloppa
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Lua
