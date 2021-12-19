@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @TrustedFloppa
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Lua
+- OC 0.7.5
+- Monterey
+- Acer Aspire E5-575G (Skylake)
