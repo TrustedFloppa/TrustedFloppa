@@ -11,6 +11,12 @@ https://github.com/TrustedFloppa/XiaomiAirPurifier3H-Discord - Xiaomi Air Purifi
 
 https://github.com/TrustedFloppa/ESPHome-Projects - ESPHome Templates for Beken/Espressif Chips
 
+https://github.com/TrustedFloppa/Python-File-Sorting - File Sorting using Python
+
+# XBL's
+https://github.com/TrustedFloppa/Xiaomi-11-Lite-5G-NE-XBL-Test - Xiaomi 11 Lite 5G NE/11 LE
+
+https://github.com/TrustedFloppa/Mi-13-UEFI-Extract - Mi 13
   
 </div>
   
