@@ -13,6 +13,8 @@ https://github.com/TrustedFloppa/ESPHome-Projects - ESPHome Templates for Beken/
 
 https://github.com/TrustedFloppa/Python-File-Sorting - File Sorting using Python
 
+https://github.com/TrustedFloppa/Python-Empty-Folder-Remover - Empty folder remover using Python
+
 # XBL's
 https://github.com/TrustedFloppa/Xiaomi-11-Lite-5G-NE-XBL-Test - Xiaomi 11 Lite 5G NE/11 LE
 
