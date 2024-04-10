@@ -19,6 +19,7 @@ https://github.com/TrustedFloppa/Python-Empty-Folder-Remover - Empty folder remo
 https://github.com/TrustedFloppa/Xiaomi-11-Lite-5G-NE-XBL-Test - Xiaomi 11 Lite 5G NE/11 LE
 
 https://github.com/TrustedFloppa/Mi-13-UEFI-Extract - Mi 13
-  
+
+https://github.com/TrustedFloppa/Xiaomi-Mix-2S-XBL - Mi Mix 2S
 </div>
   
