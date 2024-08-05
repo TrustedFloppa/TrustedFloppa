@@ -1,5 +1,7 @@
 <div align="center">
   <a href="https://github.com/TrustedFloppa">
+    
+
 
 # Hi, Heres my projects:
   
@@ -21,5 +23,7 @@ https://github.com/TrustedFloppa/Xiaomi-11-Lite-5G-NE-XBL-Test - Xiaomi 11 Lite 
 https://github.com/TrustedFloppa/Mi-13-UEFI-Extract - Mi 13
 
 https://github.com/TrustedFloppa/Xiaomi-Mix-2S-XBL - Mi Mix 2S
+
+![](https://komarev.com/ghpvc/?username=TrustedFloppa&color=green)
 </div>
   
