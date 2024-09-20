@@ -17,6 +17,8 @@ https://github.com/TrustedFloppa/Python-File-Sorting - File Sorting using Python
 
 https://github.com/TrustedFloppa/Python-Empty-Folder-Remover - Empty folder remover using Python
 
+https://github.com/TrustedFloppa/Telegram-Bot-Gemini-AI - Gemini AI integrated into Telegram bot.
+
 # XBL's
 https://github.com/TrustedFloppa/Xiaomi-11-Lite-5G-NE-XBL-Test - Xiaomi 11 Lite 5G NE/11 LE
 
