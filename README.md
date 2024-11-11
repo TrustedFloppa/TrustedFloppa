@@ -26,6 +26,19 @@ https://github.com/TrustedFloppa/Mi-13-UEFI-Extract - Mi 13
 
 https://github.com/TrustedFloppa/Xiaomi-Mix-2S-XBL - Mi Mix 2S
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=trustedfloppa&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=trustedfloppa&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=trustedfloppa&show_icons=true" />
+</picture>
+
+
 ![](https://komarev.com/ghpvc/?username=TrustedFloppa&color=green)
 </div>
   
