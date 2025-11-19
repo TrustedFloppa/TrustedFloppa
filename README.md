@@ -13,6 +13,7 @@ I appreciate everyone who supported my work, and I hope you understand my decisi
 Maybe one day I’ll be back, but for now, I need to take care of myself.  
 
 Thanks for understanding. 🙏
-
+ 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K3N306G)
 </div>
   
